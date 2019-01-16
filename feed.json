@@ -29,8 +29,8 @@
             "id": "https://yong1301.github.io/publii/test.html",
             "url": "https://yong1301.github.io/publii/test.html",
             "title": "Fan",
-            "summary": "It's fan",
-            "content_html": "It's fan",
+            "summary": " ",
+            "content_html": "<p><img class=\"post__image--center\" src=\"https://yong1301.github.io/publii/media/posts/1/20190116_145417.png\" alt=\"bluefeell logo\" width=\"567\" height=\"162\"></p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg\" alt=\"\" width=\"589\" height=\"960\"><img class=\"post__image--wide\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721293.jpg\" alt=\"\" width=\"825\" height=\"960\"><img class=\"post__image--full\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg\" alt=\"\" width=\"589\" height=\"960\"></p>",
             "image": "https://yong1301.github.io/publii/media/posts/1/20190115_145627.png",
             "author": {
                 "name": "BLUEFEEL"
@@ -38,7 +38,7 @@
             "tags": [
             ],
             "date_published": "2019-01-15T15:16:30+09:00",
-            "date_modified": "2019-01-15T16:35:50+09:00"
+            "date_modified": "2019-01-16T16:11:25+09:00"
         }
     ]
 }

@@ -3,7 +3,7 @@
     <title>BLUEFEEL</title>
     <link href="https://yong1301.github.io/publii/feed.xml" rel="self" />
     <link href="https://yong1301.github.io/publii" />
-    <updated>2019-01-16T15:55:16+09:00</updated>
+    <updated>2019-01-16T16:11:32+09:00</updated>
     <author>
         <name>BLUEFEEL</name>
     </author>
@@ -39,17 +39,19 @@
         <link href="https://yong1301.github.io/publii/test.html"/>
         <id>https://yong1301.github.io/publii/test.html</id>
 
-        <updated>2019-01-15T16:35:50+09:00</updated>
+        <updated>2019-01-16T16:11:25+09:00</updated>
             <summary>
                 <![CDATA[
                         <img src="https://yong1301.github.io/publii/media/posts/1/20190115_145627.png" alt="" />
-                    It's fan
+                     
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="https://yong1301.github.io/publii/media/posts/1/20190115_145627.png" alt="" />
-                It's fan
+                <p><img class="post__image--center" src="https://yong1301.github.io/publii/media/posts/1/20190116_145417.png" alt="bluefeell logo" width="567" height="162"></p>
+<p> </p>
+<p><img class="post__image--center" src="https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg" alt="" width="589" height="960"><img class="post__image--wide" src="https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721293.jpg" alt="" width="825" height="960"><img class="post__image--full" src="https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg" alt="" width="589" height="960"></p>
             ]]>
         </content>
     </entry>
