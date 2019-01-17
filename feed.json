@@ -13,17 +13,17 @@
         {
             "id": "https://yong1301.github.io/publii/air-purifier.html",
             "url": "https://yong1301.github.io/publii/air-purifier.html",
-            "title": "AIR PURIFIER",
+            "title": ".",
             "summary": "It's AIR PURIFIER",
             "content_html": "It's AIR PURIFIER",
-            "image": "https://yong1301.github.io/publii/media/posts/2/20180424_150752.png",
+            "image": "https://yong1301.github.io/publii/media/posts/2/2.JPG",
             "author": {
                 "name": "BLUEFEEL"
             },
             "tags": [
             ],
             "date_published": "2019-01-15T15:20:46+09:00",
-            "date_modified": "2019-01-16T14:50:33+09:00"
+            "date_modified": "2019-01-17T10:34:02+09:00"
         },
         {
             "id": "https://yong1301.github.io/publii/test.html",
@@ -31,14 +31,14 @@
             "title": "Fan",
             "summary": " ",
             "content_html": "<p><img class=\"post__image--center\" src=\"https://yong1301.github.io/publii/media/posts/1/20190116_145417.png\" alt=\"bluefeell logo\" width=\"567\" height=\"162\"></p>\n<p> </p>\n<p><img class=\"post__image--center\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg\" alt=\"\" width=\"589\" height=\"960\"><img class=\"post__image--wide\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721293.jpg\" alt=\"\" width=\"825\" height=\"960\"><img class=\"post__image--full\" src=\"https://yong1301.github.io/publii/media/posts/1/KakaoTalk_20190116_160721500.jpg\" alt=\"\" width=\"589\" height=\"960\"></p>",
-            "image": "https://yong1301.github.io/publii/media/posts/1/20190115_145627.png",
+            "image": "https://yong1301.github.io/publii/media/posts/1/kaebceo.JPG",
             "author": {
                 "name": "BLUEFEEL"
             },
             "tags": [
             ],
             "date_published": "2019-01-15T15:16:30+09:00",
-            "date_modified": "2019-01-16T16:17:50+09:00"
+            "date_modified": "2019-01-17T10:33:23+09:00"
         }
     ]
 }
